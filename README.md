@@ -1,7 +1,7 @@
 
 # Football League Standing Manager
 
-This Python program serves as a Football League Standing Manager, allowing users to manage clubs, record match results, and view league standings. It's a part of the capstone project to fulfil the Purwadhika DTI Module 1: Fundamental Programming.
+This Python program serves as a Football League Standing Manager, allowing users to manage clubs, record match results, and view league standings. The code objective is to complete the Purwadhika data science and machine learning DTI Module 1: Fundamental Programming.
 
 ## Features
 - **Club Management**: Add, update, and delete clubs participating in the league.
