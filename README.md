@@ -1,5 +1,5 @@
 
-# Football League Table Manager
+# Football League Standing Manager
 
 This Python program serves as a Football League Manager, allowing users to manage clubs, record match results, and view league standings. It's a part of the capstone project to fulfill the Purwadhika DTI Module 1: Fundamental Programming.
 
